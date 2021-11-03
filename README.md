@@ -1,3 +1,5 @@
+# Extensão DevOps e GitHub
+
 Roteiro da Prática 01
 
 ** A maioria dos erros acontecem por não estar na pasta certa no terminal. Verifique sempre a pasta com o comando pwd e se não estiver na parte correta, navegue até ela. Os comandos e roteiro realizado na aula do dia 25/08/2021 estão disponíveis na pasta do Drive com o nome de “Prática 00”.
